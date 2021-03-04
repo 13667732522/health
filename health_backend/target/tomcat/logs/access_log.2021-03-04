@@ -1,0 +1,11 @@
+127.0.0.1 - - [04/Mar/2021:11:13:57 +0800] "GET /pages/checkitem.html HTTP/1.1" 200 21007 http-bio-82-exec-1 124
+127.0.0.1 - - [04/Mar/2021:11:13:57 +0800] "GET /plugins/elementui/index.css HTTP/1.1" 200 198714 http-bio-82-exec-2 60
+127.0.0.1 - - [04/Mar/2021:11:13:57 +0800] "GET /plugins/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31004 http-bio-82-exec-3 42
+127.0.0.1 - - [04/Mar/2021:11:13:57 +0800] "GET /css/style.css HTTP/1.1" 200 10588 http-bio-82-exec-7 82
+127.0.0.1 - - [04/Mar/2021:11:13:57 +0800] "GET /js/axios-0.18.0.js HTTP/1.1" 200 12948 http-bio-82-exec-8 62
+127.0.0.1 - - [04/Mar/2021:11:13:57 +0800] "GET /js/jquery.min.js HTTP/1.1" 200 86659 http-bio-82-exec-4 119
+127.0.0.1 - - [04/Mar/2021:11:13:58 +0800] "GET /js/vue.js HTTP/1.1" 200 300248 http-bio-82-exec-6 317
+127.0.0.1 - - [04/Mar/2021:11:13:58 +0800] "GET /plugins/elementui/index.js HTTP/1.1" 200 494238 http-bio-82-exec-5 380
+127.0.0.1 - - [04/Mar/2021:11:13:58 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-82-exec-7 16
+127.0.0.1 - - [04/Mar/2021:11:13:59 +0800] "GET /plugins/elementui/fonts/element-icons.woff HTTP/1.1" 200 6164 http-bio-82-exec-7 49
+127.0.0.1 - - [04/Mar/2021:11:14:02 +0800] "POST /checkitem/findPage.do HTTP/1.1" 200 1383 http-bio-82-exec-7 3427
